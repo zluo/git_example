@@ -1,2 +1,7 @@
 git notes
 git notes1
+modified
+add a line in 3
+add a line in 4
+add a line in 5
+git reset --soft 400d6f
