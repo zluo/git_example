@@ -1,11 +1,11 @@
-git notes
-git notes1
-modified
-add a line in 3
-add a line in 4
-add a line in 5
-fix conflict
-git stash
-git checkout b1
-git reset --soft 400d6f
+1. git notes
+2. git notes1
+3. modified
+4. add a line in 3
+5. add a line in 4
+6. add a line in 5
+7. fix conflict
+8. git stash
+9. git checkout b1
+10. git reset --soft 400d6f
 11. fix conflict
