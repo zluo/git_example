@@ -1,0 +1,3 @@
+add a new file
+The current git status of this file is untaracked 
+what if I add something?
