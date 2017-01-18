@@ -1,4 +1,0 @@
-1. add a new file
-2. The current git status of this file is untaracked 
-3. what if I add something?
-4. add a new file
